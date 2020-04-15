@@ -1,1 +1,3 @@
 " Min att g”ra-lista" 
+"My tasks for today are"
+"Finish GitHub labb"
